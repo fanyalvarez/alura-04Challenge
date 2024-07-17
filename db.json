@@ -1,0 +1,102 @@
+{
+  "videos": [
+    {
+      "id": "456",
+      "titulo": "Qué Significa Pensar Como Programador",
+      "imagen": "https://img.youtube.com/vi/ov7vA5HFe6w/0.jpg",
+      "video": "https://www.youtube.com/watch?v=ov7vA5HFe6w",
+      "descripcion": "¿Cuáles son las principales características de un programador? ¿Qué habilidades y competencias debe tener alguien que quiere seguir esa carrera? ",
+      "categoria": "Front End"
+    },
+    {
+      "id": "1696378",
+      "titulo": "Cuándo usar let, var y const? #AluraMás",
+      "imagen": "https://img.youtube.com/vi/PztCEdIJITY/0.jpg",
+      "video": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+      "categoria": "Front End"
+    },    
+    {
+      "id": "8521696",
+      "titulo": "¿Qué es JavaScript?",
+      "imagen": "https://img.youtube.com/vi/GJfOSoaXk4s/0.jpg",
+      "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "categoria": "Front End"
+    },
+    {
+      "id": "4856196",
+      "titulo": "Equipo Front End #AluraMás",
+      "imagen": "https://img.youtube.com/vi/rpvrLaBQwgg/0.jpg",
+      "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+      "categoria": "Front End"
+    },
+    {
+      "id": "1685596",
+      "titulo": "Spring Framework. ¿Qué es? #AluraMás",
+      "imagen": "https://img.youtube.com/vi/t-iqt1b2qqk/0.jpg",
+      "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "descripcion": "¿Busca un framework para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados,...",
+      "categoria": "Back End"
+    },
+    {
+      "id": "8238517",
+      "titulo": "¿Qué es SQL y NoSQL?",
+      "imagen": "https://img.youtube.com/vi/cLLKVd5CNLc/0.jpg",
+      "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este...",
+      "categoria": "Back End"
+    },
+    {
+      "id": "846596",
+      "titulo": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+      "imagen": "https://img.youtube.com/vi/EoPvlE85XAQ/0.jpg",
+      "video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplifica...",
+      "categoria": "Back End"
+    },
+    {
+      "id": "1659631",
+      "titulo": "¿Qué son las Soft Skills?",
+      "imagen": "https://img.youtube.com/vi/vhwspfvI52k/0.jpg",
+      "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas...",
+      "categoria": "Innovacion y Gestion"
+    },
+    {
+      "id": "9237966",
+      "titulo": "7 Soft Skills más deseadas por las empresas #AluraMás",
+      "imagen": "https://img.youtube.com/vi/YhR7Zp8NUzE/0.jpg",
+      "video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia...",
+      "categoria": "Innovacion y Gestion"
+    },
+    {
+      "id": "8468525",
+      "titulo": "Ventajas de las metodologías Ágiles",
+      "imagen": "https://img.youtube.com/vi/p4kpHAvQH9w/0.jpg",
+      "video": "https://www.youtube.com/watch?v=p4kpHAvQH9w",
+      "descripcion": "En nuestra 6a edición del Café Punto Tech, hablaremos con Elizabeth León y Andyara Pedrosa dos expertas en area de la metodología Agile, la cual permite adaptar la forma en que un equipo...",
+      "categoria": "Innovacion y Gestion"
+    }
+  ],
+  "categorias": [
+    {
+      "categoria": "Front End",
+      "color": "#6BD1FF",
+      "id": "da10"
+    },
+    {
+      "categoria": "Back End",
+      "color": "#00C86F",
+      "id": "72ef"
+    },
+    {
+      "categoria": "Innovacion y Gestion",
+      "color": "#FFBA05",
+      "id": "20ab"
+    }
+
+  ]
+}
